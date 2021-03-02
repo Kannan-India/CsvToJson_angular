@@ -1,0 +1,28 @@
+<!-- <p>servers works!</p> -->
+<label for="">Server Name</label>
+<!-- <input type="text" class="form-control" [(ngModel)]="serverName"> -->
+<input 
+    type="text"
+    class="form-control"
+    (input)="onServerNameInput($event)"
+    style="margin-bottom: 10px;"
+    >
+    <p *ngIf="serverName !==''">{{ "String Interpolation : " + serverName }}</p>
+<button 
+    class="btn btn-primary"
+    [disabled] = "serverName === ''"
+    (click) = "addServerClicked()"
+    >Add new server</button>
+    
+    <!-- <button class="btn btn-success" style="margin-left:10px">
+        Refresh
+    </button> -->
+
+<!-- diff btwn string interpolation and property binding -->
+<!-- <p> {{createNewServer}} </p> -->
+<!-- <p [innerText]="createNewServer"></p> -->
+
+<p *ngIf="serverCreated">{{ createdMsg }}</p>
+
+<app-server></app-server>
+<app-server></app-server>

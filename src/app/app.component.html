@@ -1,0 +1,40 @@
+<div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <h2>CSV to Json</h2>
+        <hr>
+        <!-- <app-server></app-server> -->
+        <!-- <app-servers></app-servers> -->
+        <div class="form-group">
+          <input type="file" class="form-control" id="csvFile">
+        </div>
+        <div class="form-group">
+          <button class="btn btn-block btn-success" (click)="convertFile()">Convert</button>
+        </div>
+        <div class="form-group">
+          <button class="btn btn-block btn-danger" (click)="deleteAll()">Delete All</button>
+        </div>
+      </div>
+
+      <div class="col-lg-12">
+        <h4>Add City</h4>
+        <div class="row">
+          <div class="form-group col-lg-4">
+            <input type="text" class="form-control" placeholder="State"
+            [(ngModel)]="singleLine.state">
+          </div>
+          <div class="form-group col-lg-4">
+            <input type="text" class="form-control" placeholder="City"
+            [(ngModel)]="singleLine.city">
+          </div>
+          <div class="form-group col-lg-4">
+            <input type="text" class="form-control" placeholder="Tier"
+            [(ngModel)]="singleLine.tier">
+          </div>
+          <div class="form-group col-lg-12">
+            <button class="btn btn-block btn-success" (click)="onAdd()">Add</button>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>

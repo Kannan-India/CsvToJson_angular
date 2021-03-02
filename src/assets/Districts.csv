@@ -1,0 +1,783 @@
+State,City,Class
+Andaman Nicobar,Nicobar,Class C
+Andaman Nicobar,North Middle Andaman,Class C
+Andaman Nicobar,South Andaman,Class C
+Andhra Pradesh,Adoni,Class B
+Andhra Pradesh,Anantapur,Class B
+Andhra Pradesh,Chittoor,Class C
+Andhra Pradesh,Eluru,Class B
+Andhra Pradesh,East Godavari,Class C
+Andhra Pradesh,Guntur,Class B
+Andhra Pradesh,Kakinada,Class C
+Andhra Pradesh,Kadapa,Class C
+Andhra Pradesh,Krishna,Class C
+Andhra Pradesh,Kurnool,Class B
+Andhra Pradesh,Nellore,Class B
+Andhra Pradesh,Ongole,Class B
+Andhra Pradesh,Rajmundry,Class B
+Andhra Pradesh,Prakasam,Class C
+Andhra Pradesh,Srikakulam,Class C
+Andhra Pradesh,Vijayawada,Class B
+Andhra Pradesh,Visakhapatnam,Class B
+Andhra Pradesh,Vizianagaram,Class B
+Andhra Pradesh,West Godavari,Class C
+Arunachal Pradesh,Anjaw,Class C
+Arunachal Pradesh,Central Siang,Class C
+Arunachal Pradesh,Changlang,Class C
+Arunachal Pradesh,Dibang Valley,Class C
+Arunachal Pradesh,East Kameng,Class C
+Arunachal Pradesh,East Siang,Class C
+Arunachal Pradesh,Kamle,Class C
+Arunachal Pradesh,Kra Daadi,Class C
+Arunachal Pradesh,Kurung Kumey,Class C
+Arunachal Pradesh,Lepa Rada,Class C
+Arunachal Pradesh,Lohit,Class C
+Arunachal Pradesh,Longding,Class C
+Arunachal Pradesh,Lower Dibang Valley,Class C
+Arunachal Pradesh,Lower Siang,Class C
+Arunachal Pradesh,Lower Subansiri,Class C
+Arunachal Pradesh,Namsai,Class C
+Arunachal Pradesh,Pakke Kessang,Class C
+Arunachal Pradesh,Papum Pare,Class C
+Arunachal Pradesh,Shi Yomi,Class C
+Arunachal Pradesh,Tawang,Class C
+Arunachal Pradesh,Tirap,Class C
+Arunachal Pradesh,Upper Siang,Class C
+Arunachal Pradesh,Upper Subansiri,Class C
+Arunachal Pradesh,West Kameng,Class C
+Arunachal Pradesh,West Siang,Class C
+Assam,Bajali,Class C
+Assam,Baksa,Class C
+Assam,Barpeta,Class C
+Assam,Biswanath,Class C
+Assam,Bongaigaon,Class C
+Assam,Cachar,Class C
+Assam,Charaideo,Class C
+Assam,Chirang,Class C
+Assam,Darrang,Class C
+Assam,Dhemaji,Class C
+Assam,Dhubri,Class C
+Assam,Dibrugarh,Class C
+Assam,Dima Hasao,Class C
+Assam,Goalpara,Class C
+Assam,Golaghat,Class C
+Assam,Hailakandi,Class C
+Assam,Hojai,Class C
+Assam,Jorhat,Class C
+Assam,Kamrup,Class C
+Assam,Kamrup Metropolitan,Class C
+Assam,Karbi Anglong,Class C
+Assam,Karimganj,Class C
+Assam,Kokrajhar,Class C
+Assam,Lakhimpur,Class C
+Assam,Majuli,Class C
+Assam,Morigaon,Class C
+Assam,Nagaon,Class C
+Assam,Nalbari,Class C
+Assam,Sivasagar,Class C
+Assam,Sonitpur,Class C
+Assam,South Salmara-Mankachar,Class C
+Assam,Tinsukia,Class C
+Assam,Udalguri,Class C
+Assam,West Karbi Anglong,Class C
+Bihar,Araria,Class C
+Bihar,Arwal,Class C
+Bihar,Aurangabad,Class C
+Bihar,Banka,Class C
+Bihar,Barauni,Class B
+Bihar,Bilaspur,Class B
+Bihar,Begusarai,Class C
+Bihar,Bhagalpur,Class B
+Bihar,Bodhgaya,Class B
+Bihar,Bhojpur,Class C
+Bihar,Buxar,Class C
+Bihar,Chhapra,Class B
+Bihar,Darbhanga,Class C
+Bihar,East Champaran,Class C
+Bihar,Gaya,Class B
+Bihar,Gopalganj,Class C
+Bihar,Jamui,Class C
+Bihar,Jehanabad,Class C
+Bihar,Kaimur,Class C
+Bihar,Katihar,Class B
+Bihar,Khagaria,Class C
+Bihar,Kishanganj,Class C
+Bihar,Lakhisarai,Class C
+Bihar,Madhepura,Class C
+Bihar,Madhubani,Class C
+Bihar,Motihari,Class B
+Bihar,Munger,Class C
+Bihar,Muzaffarpur,Class B
+Bihar,Nalanda,Class C
+Bihar,Nawada,Class C
+Bihar,Patna,Class A
+Bihar,Purnia,Class B
+Bihar,Rajgir,Class B
+Bihar,Rohtas,Class C
+Bihar,Saharsa,Class C
+Bihar,Samastipur,Class B
+Bihar,Saran,Class C
+Bihar,Sheikhpura,Class C
+Bihar,Sheohar,Class C
+Bihar,Sitamarhi,Class C
+Bihar,Siwan,Class C
+Bihar,Supaul,Class C
+Bihar,Vaishali,Class C
+Bihar,West Champaran,Class C
+Chandigarh,Chandigarh,Class C
+Chhattisgarh,Ambikapur,Class B
+Chhattisgarh,Balod,Class C
+Chhattisgarh,Baloda Bazar,Class C
+Chhattisgarh,Balrampur,Class C
+Chhattisgarh,Bastar,Class C
+Chhattisgarh,Bemetara,Class C
+Chhattisgarh,Bijapur,Class C
+Chhattisgarh,Bilaspur,Class B
+Chhattisgarh,Dantewada,Class C
+Chhattisgarh,Dhamtari,Class B
+Chhattisgarh,Durg,Class C
+Chhattisgarh,Gariaband,Class C
+Chhattisgarh,Gaurela Pendra Marwahi,Class C
+Chhattisgarh,Janjgir Champa,Class C
+Chhattisgarh,Jashpur,Class C
+Chhattisgarh,Jagdalpur,Class B
+Chhattisgarh,Kabirdham,Class C
+Chhattisgarh,Kanker,Class C
+Chhattisgarh,Kondagaon,Class C
+Chhattisgarh,Korba,Class C
+Chhattisgarh,Koriya,Class C
+Chhattisgarh,Mahasamund,Class C
+Chhattisgarh,Mungeli,Class C
+Chhattisgarh,Narayanpur,Class C
+Chhattisgarh,Raigarh,Class B
+Chhattisgarh,Raipur,Class A
+Chhattisgarh,Rajnandgaon,Class B
+Chhattisgarh,Sukma,Class C
+Chhattisgarh,Surajpur,Class C
+Chhattisgarh,Surguja,Class C
+Dadra Nagar Haveli,Dadra Nagar Haveli,Class C
+Daman Diu,Daman,Class C
+Daman Diu,Diu,Class C
+Delhi,Central Delhi,Class C
+Delhi,East Delhi,Class C
+Delhi,New Delhi,Class C
+Delhi,North Delhi,Class C
+Delhi,North East Delhi,Class C
+Delhi,North West Delhi,Class C
+Delhi,Shahdara,Class C
+Delhi,South Delhi,Class C
+Delhi,South East Delhi,Class C
+Delhi,South West Delhi,Class C
+Delhi,West Delhi,Class C
+Goa,North Goa,Class C
+Goa,South Goa,Class C
+Gujarat,Ahmedabad,Class A
+Gujarat,Amreli,Class C
+Gujarat,Anand,Class C
+Gujarat,Aravalli,Class C
+Gujarat,Banaskantha,Class C
+Gujarat,Bharuch,Class C
+Gujarat,Bhavnagar,Class B
+Gujarat,Botad,Class C
+Gujarat,Chhota Udaipur,Class C
+Gujarat,Dahod,Class C
+Gujarat,Dang,Class C
+Gujarat,Devbhoomi Dwarka,Class C
+Gujarat,Deesa ,Class B
+Gujarat,Gandhinagar,Class C
+Gujarat,Gir Somnath,Class C
+Gujarat,Himmatnagar,Class B
+Gujarat,Jamnagar,Class B
+Gujarat,Junagadh,Class B
+Gujarat,Kheda,Class C
+Gujarat,Kutch,Class C
+Gujarat,Mahisagar,Class C
+Gujarat,Mehsana,Class C
+Gujarat,Morbi,Class C
+Gujarat,Narmada,Class C
+Gujarat,Navsari,Class C
+Gujarat,Panchmahal,Class C
+Gujarat,Patan,Class C
+Gujarat,Porbandar,Class C
+Gujarat,Rajkot,Class B
+Gujarat,Sabarkantha,Class C
+Gujarat,Surat,Class B
+Gujarat,Surendranagar,Class B
+Gujarat,Tapi,Class C
+Gujarat,Vadodara,Class B
+Gujarat,Valsad,Class C
+Haryana,Ambala,Class B
+Haryana,Bhiwani,Class C
+Haryana,Charkhi Dadri,Class C
+Haryana,Faridabad,Class C
+Haryana,Fatehabad,Class C
+Haryana,Gurugram,Class A
+Haryana,Hisar,Class B
+Haryana,Jhajjar,Class C
+Haryana,Jind,Class B
+Haryana,Kaithal,Class C
+Haryana,Karnal,Class B
+Haryana,Kurukshetra,Class B
+Haryana,Mahendragarh,Class C
+Haryana,Mewat,Class C
+Haryana,Palwal,Class C
+Haryana,Panchkula,Class C
+Haryana,Panipat,Class C
+Haryana,Rewari,Class B
+Haryana,Rohtak,Class B
+Haryana,Sirsa,Class B
+Haryana,Sonipat,Class C
+Haryana,Yamunanagar,Class C
+Himachal Pradesh,Bilaspur,Class B
+Himachal Pradesh,Chamba,Class C
+Himachal Pradesh,Hamirpur,Class C
+Himachal Pradesh,Kangra,Class C
+Himachal Pradesh,Kinnaur,Class C
+Himachal Pradesh,Kullu,Class C
+Himachal Pradesh,Lahaul Spiti,Class C
+Himachal Pradesh,Mandi,Class B
+Himachal Pradesh,Shimla,Class A
+Himachal Pradesh,Sirmaur,Class C
+Himachal Pradesh,Solan,Class C
+Himachal Pradesh,Una,Class C
+Jammu Kashmir,Anantnag,Class C
+Jammu Kashmir,Bandipora,Class C
+Jammu Kashmir,Baramulla,Class C
+Jammu Kashmir,Budgam,Class C
+Jammu Kashmir,Doda,Class C
+Jammu Kashmir,Ganderbal,Class C
+Jammu Kashmir,Jammu,Class C
+Jammu Kashmir,Kathua,Class C
+Jammu Kashmir,Kishtwar,Class C
+Jammu Kashmir,Kulgam,Class C
+Jammu Kashmir,Kupwara,Class C
+Jammu Kashmir,Poonch,Class C
+Jammu Kashmir,Pulwama,Class C
+Jammu Kashmir,Rajouri,Class C
+Jammu Kashmir,Ramban,Class C
+Jammu Kashmir,Reasi,Class C
+Jammu Kashmir,Samba,Class C
+Jammu Kashmir,Shopian,Class C
+Jammu Kashmir,Srinagar,Class C
+Jammu Kashmir,Udhampur,Class C
+Jharkhand,Bokaro,Class B
+Jharkhand,Daltonganj,Class B
+Jharkhand,Chatra,Class C
+Jharkhand,Deoghar,Class B
+Jharkhand,Dhanbad,Class B
+Jharkhand,Dumka,Class C
+Jharkhand,East Singhbhum,Class C
+Jharkhand,Garhwa,Class C
+Jharkhand,Giridih,Class C
+Jharkhand,Godda,Class C
+Jharkhand,Gumla,Class C
+Jharkhand,Hazaribagh,Class B
+Jharkhand,Jamtara,Class C
+Jharkhand,Khunti,Class C
+Jharkhand,Koderma,Class C
+Jharkhand,Latehar,Class C
+Jharkhand,Lohardaga,Class C
+Jharkhand,Pakur,Class C
+Jharkhand,Palamu,Class C
+Jharkhand,Ramgarh,Class C
+Jharkhand,Ranchi,Class A
+Jharkhand,Sahebganj,Class C
+Jharkhand,Seraikela Kharsawan,Class C
+Jharkhand,Simdega,Class C
+Jharkhand,West Singhbhum,Class C
+Karnataka,Bagalkot,Class B
+Karnataka,Bangalore Rural,Class B
+Karnataka,Bangalore Urban,Class A
+Karnataka,Belgaum,Class C
+Karnataka,Bellary,Class B
+Karnataka,Bijapur,Class B
+Karnataka,Bidar,Class C
+Karnataka,Chamarajanagar,Class C
+Karnataka,Chikkaballapur,Class C
+Karnataka,Chikkamagaluru,Class C
+Karnataka,Chitradurga,Class C
+Karnataka,Belagavi,Class B
+Karnataka,Dakshina Kannada,Class C
+Karnataka,Davanagere,Class B
+Karnataka,Dharwad,Class C
+Karnataka,Gokak,Class B
+Karnataka,Gadag,Class C
+Karnataka,Gulbarga,Class B
+Karnataka,Hassan,Class B
+Karnataka,Haveri,Class B
+Karnataka,Hospet,Class B
+Karnataka,Hubli,Class B
+Karnataka,Kodagu,Class C
+Karnataka,Kolar,Class C
+Karnataka,Mangalore,Class B
+Karnataka,Koppal,Class B
+Karnataka,Mandya,Class C
+Karnataka,Medikere,Class B
+Karnataka,Mysore,Class A
+Karnataka,Raichur,Class B
+Karnataka,Ramanagara,Class C
+Karnataka,Shimoga,Class B
+Karnataka,Sindhnur,Class B
+Karnataka,Tumkur,Class B
+Karnataka,Udupi,Class C
+Karnataka,Uttara Kannada,Class C
+Karnataka,Vijayapura,Class C
+Karnataka,Yadgir,Class C
+Kerala,Alappuzha,Class C
+Kerala,Ernakulam,Class C
+Kerala,Idukki,Class C
+Kerala,Kannur,Class C
+Kerala,Kasaragod,Class C
+Kerala,Kollam,Class C
+Kerala,Kottayam,Class C
+Kerala,Kozhikode,Class C
+Kerala,Malappuram,Class C
+Kerala,Palakkad,Class C
+Kerala,Pathanamthitta,Class C
+Kerala,Thiruvananthapuram,Class C
+Kerala,Thrissur,Class C
+Kerala,Wayanad,Class C
+Lakshadweep,Lakshadweep,Class C
+Ladakh,Kargil,Class C
+Ladakh,Leh,Class C
+Madhya Pradesh,Agar Malwa,Class C
+Madhya Pradesh,Alirajpur,Class C
+Madhya Pradesh,Anuppur,Class C
+Madhya Pradesh,Ashoknagar,Class C
+Madhya Pradesh,Balaghat,Class C
+Madhya Pradesh,Barwani,Class B
+Madhya Pradesh,Betul,Class C
+Madhya Pradesh,Bhind,Class C
+Madhya Pradesh,Bhopal,Class A
+Madhya Pradesh,Burhanpur,Class B
+Madhya Pradesh,Chachaura,Class C
+Madhya Pradesh,Chhatarpur,Class C
+Madhya Pradesh,Chhindwara,Class B
+Madhya Pradesh,Damoh,Class C
+Madhya Pradesh,Datia,Class C
+Madhya Pradesh,Dewas,Class C
+Madhya Pradesh,Dhar,Class B
+Madhya Pradesh,Dindori,Class C
+Madhya Pradesh,Guna,Class C
+Madhya Pradesh,Gwalior,Class B
+Madhya Pradesh,Harda,Class C
+Madhya Pradesh,Hoshangabad,Class C
+Madhya Pradesh,Indore,Class C
+Madhya Pradesh,Jabalpur,Class B
+Madhya Pradesh,Jhabua,Class B
+Madhya Pradesh,Katni,Class C
+Madhya Pradesh,Khandwa,Class B
+Madhya Pradesh,Khargone,Class B
+Madhya Pradesh,Maihar,Class C
+Madhya Pradesh,Mandla,Class C
+Madhya Pradesh,Mandsaur,Class B
+Madhya Pradesh,Morena,Class C
+Madhya Pradesh,Narsinghpur,Class C
+Madhya Pradesh,Nagda,Class C
+Madhya Pradesh,Neemuch,Class C
+Madhya Pradesh,Niwari,Class C
+Madhya Pradesh,Panna,Class C
+Madhya Pradesh,Raisen,Class C
+Madhya Pradesh,Rajgarh,Class C
+Madhya Pradesh,Ratlam,Class B
+Madhya Pradesh,Rewa,Class B
+Madhya Pradesh,Sagar,Class C
+Madhya Pradesh,Satna,Class B
+Madhya Pradesh,Sehore,Class C
+Madhya Pradesh,Seoni,Class C
+Madhya Pradesh,Shahdol,Class B
+Madhya Pradesh,Shajapur,Class C
+Madhya Pradesh,Sheopur,Class C
+Madhya Pradesh,Shivpuri,Class C
+Madhya Pradesh,Sidhi,Class C
+Madhya Pradesh,Singrauli,Class C
+Madhya Pradesh,Tikamgarh,Class C
+Madhya Pradesh,Ujjain,Class C
+Madhya Pradesh,Umaria,Class C
+Madhya Pradesh,Vidisha,Class C
+Maharashtra,Ahmednagar,Class B
+Maharashtra,Akola,Class B
+Maharashtra,Amravati,Class B
+Maharashtra,Aurangabad,Class B
+Maharashtra,Boisar,Class B
+Maharashtra,Beed,Class B
+Maharashtra,Bhandara,Class C
+Maharashtra,Buldhana,Class C
+Maharashtra,Chandrapur,Class B
+Maharashtra,Dhule,Class B
+Maharashtra,Gadchiroli,Class C
+Maharashtra,Gondia,Class C
+Maharashtra,Hingoli,Class C
+Maharashtra,Jalgaon,Class B
+Maharashtra,Jalna,Class B
+Maharashtra,Kolhapur,Class B
+Maharashtra,Latur,Class C
+Maharashtra,Malegaon,Class B
+Maharashtra,Mumbai City,Class C
+Maharashtra,Mumbai Suburban,Class C
+Maharashtra,Nagpur,Class A
+Maharashtra,Nanded,Class B
+Maharashtra,Nandurbar,Class C
+Maharashtra,Nashik,Class B
+Maharashtra,Osmanabad,Class C
+Maharashtra,Palghar,Class C
+Maharashtra,Parbhani,Class C
+Maharashtra,Pune,Class A
+Maharashtra,Raigad,Class C
+Maharashtra,Ratnagiri,Class B
+Maharashtra,Sangli,Class B
+Maharashtra,Satara,Class C
+Maharashtra,Shiridi,Class B
+Maharashtra,Sindhudurg,Class C
+Maharashtra,Solapur,Class B
+Maharashtra,Thane,Class A
+Maharashtra,Wardha,Class B
+Maharashtra,Washim,Class C
+Maharashtra,Yavatmal,Class C
+Manipur,Bishnupur,Class C
+Manipur,Chandel,Class C
+Manipur,Churachandpur,Class C
+Manipur,Imphal East,Class C
+Manipur,Imphal West,Class C
+Manipur,Jiribam,Class C
+Manipur,Kakching,Class C
+Manipur,Kamjong,Class C
+Manipur,Kangpokpi,Class C
+Manipur,Noney,Class C
+Manipur,Pherzawl,Class C
+Manipur,Senapati,Class C
+Manipur,Tamenglong,Class C
+Manipur,Tengnoupal,Class C
+Manipur,Thoubal,Class C
+Manipur,Ukhrul,Class C
+Meghalaya,East Garo Hills,Class C
+Meghalaya,East Jaintia Hills,Class C
+Meghalaya,East Khasi Hills,Class C
+Meghalaya,North Garo Hills,Class C
+Meghalaya,Ri Bhoi,Class C
+Meghalaya,South Garo Hills,Class C
+Meghalaya,South West Garo Hills,Class C
+Meghalaya,South West Khasi Hills,Class C
+Meghalaya,West Garo Hills,Class C
+Meghalaya,West Jaintia Hills,Class C
+Meghalaya,West Khasi Hills,Class C
+Mizoram,Aizawl,Class C
+Mizoram,Champhai,Class C
+Mizoram,Hnahthial,Class C
+Mizoram,Kolasib,Class C
+Mizoram,Khawzawl,Class C
+Mizoram,Lawngtlai,Class C
+Mizoram,Lunglei,Class C
+Mizoram,Mamit,Class C
+Mizoram,Saiha,Class C
+Mizoram,Serchhip,Class C
+Mizoram,Saitual,Class C
+Nagaland,Mon,Class C
+Nagaland,Dimapur,Class C
+Nagaland,Kiphire,Class C
+Nagaland,Kohima,Class C
+Nagaland,Longleng,Class C
+Nagaland,Mokokchung,Class C
+Nagaland,Noklak,Class C
+Nagaland,Peren,Class C
+Nagaland,Phek,Class C
+Nagaland,Tuensang,Class C
+Nagaland,Wokha,Class C
+Nagaland,Zunheboto,Class C
+Odisha,Angul,Class C
+Odisha,Balangir,Class C
+Odisha,Balasore,Class C
+Odisha,Bargarh,Class B
+Odisha,Bhubaneswar,Class A
+Odisha,Bhadrak,Class C
+Odisha,Bhawanipatna,Class B
+Odisha,Boudh,Class C
+Odisha,Cuttack,Class C
+Odisha,Debagarh,Class C
+Odisha,Dhenkanal,Class C
+Odisha,Gajapati,Class C
+Odisha,Ganjam,Class C
+Odisha,Jagatsinghpur,Class C
+Odisha,Jajpur,Class C
+Odisha,Jharsuguda,Class C
+Odisha,Kalahandi,Class C
+Odisha,Kandhamal,Class C
+Odisha,Kendrapara,Class C
+Odisha,Kendujhar,Class B
+Odisha,Khordha,Class C
+Odisha,Koraput,Class C
+Odisha,Malkangiri,Class C
+Odisha,Mayurbhanj,Class C
+Odisha,Nabarangpur,Class B
+Odisha,Nayagarh,Class C
+Odisha,Nuapada,Class C
+Odisha,Puri,Class B
+Odisha,Rayagada,Class C
+Odisha,Sambalpur,Class B
+Odisha,Subarnapur,Class C
+Odisha,Sundergarh,Class C
+Puducherry,Karaikal,Class C
+Puducherry,Mahe,Class C
+Puducherry,Puducherry,Class C
+Puducherry,Yanam,Class C
+Punjab,Amritsar,Class C
+Punjab,Barnala,Class C
+Punjab,Bathinda,Class B
+Punjab,Faridkot,Class C
+Punjab,Fatehgarh Sahib,Class C
+Punjab,Fazilka,Class C
+Punjab,Firozpur,Class C
+Punjab,Gurdaspur,Class C
+Punjab,Hoshiarpur,Class C
+Punjab,Jalandhar,Class B
+Punjab,Kapurthala,Class C
+Punjab,Ludhiana,Class C
+Punjab,Mansa,Class B
+Punjab,Moga,Class C
+Punjab,Mohali,Class C
+Punjab,Muktsar,Class C
+Punjab,Pathankot,Class C
+Punjab,Patiala,Class B
+Punjab,Rupnagar,Class C
+Punjab,Sangrur,Class C
+Punjab,Shaheed Bhagat Singh Nagar,Class C
+Punjab,Tarn Taran,Class C
+Rajasthan,Ajmer,Class B
+Rajasthan,Alwar,Class B
+Rajasthan,Banswara,Class C
+Rajasthan,Baran,Class C
+Rajasthan,Barmer,Class C
+Rajasthan,Bharatpur,Class B
+Rajasthan,Bhilwara,Class B
+Rajasthan,Bikaner,Class B
+Rajasthan,Bundi,Class C
+Rajasthan,Chittorgarh,Class B
+Rajasthan,Churu,Class C
+Rajasthan,Dausa,Class C
+Rajasthan,Dholpur,Class C
+Rajasthan,Dungarpur,Class C
+Rajasthan,Hanumangarh,Class B
+Rajasthan,Jaipur,Class A
+Rajasthan,Jaisalmer,Class B
+Rajasthan,Jalore,Class C
+Rajasthan,Jhalawar,Class C
+Rajasthan,Jhunjhunu,Class C
+Rajasthan,Jodhpur,Class B
+Rajasthan,Karauli,Class C
+Rajasthan,Kota,Class C
+Rajasthan,Nagaur,Class C
+Rajasthan,Pali,Class C
+Rajasthan,Pushkar,Class B
+Rajasthan,Pratapgarh,Class C
+Rajasthan,Rajsamand,Class C
+Rajasthan,Sawai Madhopur,Class C
+Rajasthan,Sikar,Class B
+Rajasthan,Sirohi,Class C
+Rajasthan,Sri Ganganagar,Class B
+Rajasthan,Tonk,Class C
+Rajasthan,Udaipur,Class C
+Sikkim,East Sikkim,Class C
+Sikkim,North Sikkim,Class C
+Sikkim,South Sikkim,Class C
+Sikkim,West Sikkim,Class C
+Tamil Nadu,Ariyalur,Class C
+Tamil Nadu,Chengalpattu,Class C
+Tamil Nadu,Chennai,Class A
+Tamil Nadu,Coimbatore,Class A
+Tamil Nadu,Cuddalore,Class C
+Tamil Nadu,Dharmapuri,Class B
+Tamil Nadu,Dindigul,Class B
+Tamil Nadu,Erode,Class B
+Tamil Nadu,Kallakurichi,Class C
+Tamil Nadu,Kanchipuram,Class B
+Tamil Nadu,Kumbakonam,Class B
+Tamil Nadu,Kanyakumari,Class C
+Tamil Nadu,Koyilpatti,Class B
+Tamil Nadu,Karur,Class C
+Tamil Nadu,Krishnagiri,Class B
+Tamil Nadu,Madurai,Class B
+Tamil Nadu,Mayiladuthurai,Class B
+Tamil Nadu,Nagapattinam,Class C
+Tamil Nadu,Namakkal,Class C
+Tamil Nadu,Nilgiris,Class C
+Tamil Nadu,Ooty,Class B
+Tamil Nadu,Perambalur,Class C
+Tamil Nadu,Pudukkottai,Class C
+Tamil Nadu,Ramanathapuram,Class C
+Tamil Nadu,Ranipet,Class C
+Tamil Nadu,Salem,Class B
+Tamil Nadu,Sivaganga,Class C
+Tamil Nadu,Tenkasi,Class C
+Tamil Nadu,Thanjavur,Class B
+Tamil Nadu,Theni,Class B
+Tamil Nadu,Thoothukudi,Class C
+Tamil Nadu,Tiruchirappalli,Class B
+Tamil Nadu,Tirunelveli,Class B
+Tamil Nadu,Tirupattur,Class C
+Tamil Nadu,Tiruppur,Class C
+Tamil Nadu,Tiruvallur,Class C
+Tamil Nadu,Tiruvannamalai,Class C
+Tamil Nadu,Tiruvarur,Class C
+Tamil Nadu,Vellore,Class B
+Tamil Nadu,Viluppuram,Class B
+Tamil Nadu,Virudhunagar,Class C
+Telangana,Adilabad,Class B
+Telangana,Bhadradri Kothagudem,Class B
+Telangana,Hyderabad,Class C
+Telangana,Jagtial,Class C
+Telangana,Jangaon,Class C
+Telangana,Jayashankar,Class C
+Telangana,Jogulamba,Class C
+Telangana,Kamareddy,Class C
+Telangana,Karimnagar,Class B
+Telangana,Khammam,Class B
+Telangana,Komaram Bheem,Class C
+Telangana,Mahabubabad,Class C
+Telangana,Mahbubnagar,Class C
+Telangana,Mancherial,Class B
+Telangana,Medak,Class C
+Telangana,Medchal,Class C
+Telangana,Mulugu,Class C
+Telangana,Nagarkurnool,Class C
+Telangana,Nalgonda,Class B
+Telangana,Narayanpet,Class C
+Telangana,Nirmal,Class B
+Telangana,Nizamabad,Class B
+Telangana,Peddapalli,Class C
+Telangana,Rajanna Sircilla,Class C
+Telangana,Ranga Reddy,Class C
+Telangana,Secunderabad,Class A
+Telangana,Sangareddy,Class C
+Telangana,Siddipet,Class C
+Telangana,Suryapet,Class B
+Telangana,Vikarabad,Class C
+Telangana,Wanaparthy,Class C
+Telangana,Warangal Rural,Class B
+Telangana,Warangal Urban,Class B
+Telangana,Yadadri Bhuvanagiri,Class C
+Tripura,Dhalai,Class C
+Tripura,Gomati,Class C
+Tripura,Khowai,Class C
+Tripura,North Tripura,Class C
+Tripura,Sepahijala,Class C
+Tripura,South Tripura,Class C
+Tripura,Unakoti,Class C
+Tripura,West Tripura,Class C
+Uttar Pradesh,Agra,Class B
+Uttar Pradesh,Aligarh,Class C
+Uttar Pradesh,Ambedkar Nagar,Class B
+Uttar Pradesh,Amethi,Class C
+Uttar Pradesh,Amroha,Class C
+Uttar Pradesh,Auraiya,Class C
+Uttar Pradesh,Ayodhya,Class C
+Uttar Pradesh,Azamgarh,Class C
+Uttar Pradesh,Baghpat,Class C
+Uttar Pradesh,Bahraich,Class B
+Uttar Pradesh,Ballia,Class C
+Uttar Pradesh,Balrampur,Class C
+Uttar Pradesh,Banda,Class C
+Uttar Pradesh,Barabanki,Class C
+Uttar Pradesh,Bareilly,Class B
+Uttar Pradesh,Basti,Class C
+Uttar Pradesh,Bhadohi,Class C
+Uttar Pradesh,Bijnor,Class C
+Uttar Pradesh,Budaun,Class C
+Uttar Pradesh,Bulandshahr,Class C
+Uttar Pradesh,Chandauli,Class C
+Uttar Pradesh,Chitrakoot,Class C
+Uttar Pradesh,Deoria,Class C
+Uttar Pradesh,Etah,Class C
+Uttar Pradesh,Etawah,Class C
+Uttar Pradesh,Farrukhabad,Class C
+Uttar Pradesh,Fatehpur,Class C
+Uttar Pradesh,Firozabad,Class B
+Uttar Pradesh,Gautam Buddha Nagar,Class C
+Uttar Pradesh,Ghaziabad,Class C
+Uttar Pradesh,Ghazipur,Class C
+Uttar Pradesh,Gonda,Class C
+Uttar Pradesh,Gorakhpur,Class B
+Uttar Pradesh,Hamirpur,Class C
+Uttar Pradesh,Hapur,Class C
+Uttar Pradesh,Hardoi,Class C
+Uttar Pradesh,Hathras,Class C
+Uttar Pradesh,Jalaun,Class C
+Uttar Pradesh,Jaunpur,Class C
+Uttar Pradesh,Jhansi,Class B
+Uttar Pradesh,Kannauj,Class B
+Uttar Pradesh,Kanpur Dehat,Class B
+Uttar Pradesh,Kanpur Nagar,Class B
+Uttar Pradesh,Kasganj,Class C
+Uttar Pradesh,Kaushambi,Class C
+Uttar Pradesh,Kheri,Class C
+Uttar Pradesh,Kushinagar,Class B
+Uttar Pradesh,Lalitpur,Class C
+Uttar Pradesh,Lucknow,Class A
+Uttar Pradesh,Maharajganj,Class C
+Uttar Pradesh,Mahoba,Class C
+Uttar Pradesh,Mainpuri,Class C
+Uttar Pradesh,Mathura,Class C
+Uttar Pradesh,Mau,Class C
+Uttar Pradesh,Meerut,Class B
+Uttar Pradesh,Mirzapur,Class B
+Uttar Pradesh,Moradabad,Class B
+Uttar Pradesh,Muzaffarnagar,Class C
+Uttar Pradesh,Pilibhit,Class C
+Uttar Pradesh,Pratapgarh,Class C
+Uttar Pradesh,Prayagraj,Class C
+Uttar Pradesh,Raebareli,Class C
+Uttar Pradesh,Rampur,Class C
+Uttar Pradesh,Robertsganj,Class B
+Uttar Pradesh,Saharanpur,Class C
+Uttar Pradesh,Sambhal,Class C
+Uttar Pradesh,Sant Kabir Nagar,Class C
+Uttar Pradesh,Shahjahanpur,Class C
+Uttar Pradesh,Shamli,Class C
+Uttar Pradesh,Shravasti,Class C
+Uttar Pradesh,Siddharthnagar,Class C
+Uttar Pradesh,Sitapur,Class C
+Uttar Pradesh,Sonbhadra,Class C
+Uttar Pradesh,Sultanpur,Class C
+Uttar Pradesh,Unnao,Class C
+Uttar Pradesh,Varanasi,Class B
+Uttarakhand,Almora,Class C
+Uttarakhand,Bageshwar,Class C
+Uttarakhand,Chamoli,Class C
+Uttarakhand,Champawat,Class C
+Uttarakhand,Dehradun,Class C
+Uttarakhand,Haridwar,Class C
+Uttarakhand,Nainital,Class C
+Uttarakhand,Pauri,Class C
+Uttarakhand,Pithoragarh,Class C
+Uttarakhand,Rudraprayag,Class C
+Uttarakhand,Tehri,Class C
+Uttarakhand,Udham Singh Nagar,Class C
+Uttarakhand,Uttarkashi,Class C
+West Bengal,Azangarh,Class B
+West Bengal,Alipurduar,Class C
+West Bengal,Bankura,Class C
+West Bengal,Birbhum,Class C
+West Bengal,Cooch Behar,Class C
+West Bengal,Dakshin Dinajpur,Class C
+West Bengal,Digha,Class B
+West Bengal,Darjeeling,Class C
+West Bengal,Hooghly,Class C
+West Bengal,Howrah,Class C
+West Bengal,Jalpaiguri,Class C
+West Bengal,Jhargram,Class C
+West Bengal,Kalimpong,Class C
+West Bengal,Kolkata,Class A
+West Bengal,Malda,Class B
+West Bengal,Midnapore,Class B
+West Bengal,Murshidabad,Class B
+West Bengal,Nadia,Class B
+West Bengal,North 24 Parganas,Class C
+West Bengal,Newcoochbehar,Class B
+West Bengal,Paschim Bardhaman,Class C
+West Bengal,Paschim Medinipur,Class C
+West Bengal,Purba Bardhaman,Class C
+West Bengal,Purba Medinipur,Class C
+West Bengal,Purulia,Class C
+West Bengal,Siliguri,Class B
+West Bengal,South 24 Parganas,Class C
+West Bengal,Uttar Dinajpur,Class C
+Andhra Pradesh,Chittoor,Class C
