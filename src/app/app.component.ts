@@ -1,5 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Component } from '@angular/core';
+import { DataModal } from './dataModal';
+import { DateFormatter } from './date-formatter';
 import { IStateLine } from './StateLine';
 
 @Component({
@@ -127,4 +129,64 @@ export class AppComponent {
     )
     alert("deleted Successfully")
   }
+
+
+  data: DataModal[] = [
+    new DataModal("Kannan S, kan", "21"),
+    new DataModal(null, "18"),
+  ]
+
+  escapeToken: string = "~~~"
+
+  csvdownload(){
+
+    //escape commas in data
+    this.escapeCommas()
+
+    //getting all the object's values as arrays
+    let csv = this.data.map(row => Object.values(row));
+
+    //inserting headings
+    csv.unshift(Object.keys(this.data[0]));
+
+    //updating csv with quotes and commas
+    let csvString = this.unescapeCommas(`"${csv.join('"\n"').replace(/,/g, '","')}"`)
+
+    this.downloadFile(csvString)
+  }
+
+  escapeCommas () {
+    for(let i = 0; i<this.data.length; i++ ){
+      let keys = Object.keys(this.data[i])
+      for(let j = 0; j<keys.length; j++){
+        this.data[i][keys[j]] = String(this.data[i][keys[j]]).replace(/,/g, this.escapeToken)
+        if(this.data[i][keys[j]] == "null") this.data[i][keys[j]] = ""
+      }
+    }
+  }
+
+  unescapeCommas (csvString) {
+    return csvString.replace(new RegExp(`${this.escapeToken}`, 'g'), ',');
+  }
+
+  downloadFile(csvString) {
+    let filename = "Report-" + DateFormatter.getDate_ddMMyyyy() + "-" + DateFormatter.getTime_HHMMSS()
+    let blob = new Blob(['\ufeff' + csvString], {
+        type: 'text/csv;charset=utf-8;'
+    });
+    let dwldLink = document.createElement("a");
+    let url = URL.createObjectURL(blob);
+    let isSafariBrowser = navigator.userAgent.indexOf('Safari') != -1 && navigator.userAgent.indexOf('Chrome') == -1;
+
+    //if Safari open in new window to save file with random filename.
+    if (isSafariBrowser) {
+        dwldLink.setAttribute("target", "_blank");
+    }
+    dwldLink.setAttribute("href", url);
+    dwldLink.setAttribute("download", filename + ".csv");
+    dwldLink.style.visibility = "hidden";
+    document.body.appendChild(dwldLink);
+    dwldLink.click();
+    document.body.removeChild(dwldLink);
+}
 }
